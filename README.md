@@ -1,7 +1,7 @@
 # Laravel Scanner
 
-![GitHub stars](https://img.shields.io/github/stars/Ishanoshada/laravelScanner?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Ishanoshada/laravelScanner?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ishanoshada/laravelScanner?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ishanoshada/laravelScanner?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/Ishanoshada/laravelScanner?style=social)
 ![GitHub license](https://img.shields.io/github/license/Ishanoshada/laravelScanner)
 
