@@ -96,6 +96,8 @@ http://finda.in/
 
 You can use this list of URLs as an add-on to your `urls.txt` file when running the Laravel Scanner.
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/lavscanner/count.svg)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
