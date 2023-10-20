@@ -66,6 +66,35 @@ Follow the prompts to enter URLs manually. Type `done` when finished.
 python main.py -f sample_urls.txt
 ```
 
+### Urls.txt
+
+```plaintext
+http://excelpsschool.edu.np/
+http://offers.code-pages.com/
+http://aram-clinic.de/
+http://filmentry.londonscreenings.org.uk/
+http://timehrm.com/
+http://advapa.com.br/
+http://api-analytics.blockchain.mn/
+http://www.stillunfold.com/
+http://www.okutics.com/
+http://xeepp.com/
+http://www.martindoherty.co.uk/
+http://thanks-navi.info/
+http://lcci-metin.com/
+http://www.uw-woonidee.nl/
+http://seoledger.com/
+http://www.sluice.ru/
+http://marmaristatilim.com/
+http://crontosys.com/
+http://aajkal.news/
+http://www.a-plus-eg.com/
+http://www.baburambhattarai.com/
+http://www.modnaredakcia.com/
+http://finda.in/
+```
+
+You can use this list of URLs as an add-on to your `urls.txt` file when running the Laravel Scanner.
 
 ## Contributing
 
