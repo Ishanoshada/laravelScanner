@@ -2,8 +2,8 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/ishanoshada/laravelScanner?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ishanoshada/laravelScanner?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Ishanoshada/laravelScanner?style=social)
-![GitHub license](https://img.shields.io/github/license/Ishanoshada/laravelScanner)
+![GitHub watchers](https://img.shields.io/github/watchers/ishanoshada/laravelScanner?style=social)
+![GitHub license](https://img.shields.io/github/license/ishanoshada/laravelScanner)
 
 ---
 
